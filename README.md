@@ -1,8 +1,10 @@
-#About the code
+# About the code
 Clone the repository
 Run the project
 Open a browser or use an API tool testing like Postman
 You dont have to download any database, use H2 Database
+
+
 Use the following endpoints
 Post /createSurvivor : Create a new survivor and add a list of inventories
 Get /getAllSurvivor : Get all the survivors created
