@@ -27,6 +27,7 @@ public class RobotController {
                 .bodyToMono(String.class)
                 .block();
 
+
        System.out.println("----------------");
        System.out.println(result);
        System.out.println("-----------");
